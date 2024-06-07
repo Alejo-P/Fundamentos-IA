@@ -16,6 +16,8 @@
     </p>
 </div>
 
+<hr>
+
 <div align="center" style="border: 3px solid gray; border-radius: 15px; margin:10px; padding:2px;">
     <h2><a
         style="color: white"

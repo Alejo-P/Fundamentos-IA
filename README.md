@@ -11,7 +11,9 @@
         target="_blank"
     >T1-Regresion-Lineal</a></h2>
     <h3>Descripción:</h3>
-    <p>
+    <p style="
+        margin: 0px 10px;
+        justify-content: space-between;">
         Implementación de un modelo de regresión lineal del modulo <strong>linear_model</strong> de la libreria <strong>sklearn</strong> para predecir el precio de un seguro para una persona en base a informacion como la edad, genero, IMC, etc., y calcular las metricas correspondientes para conocer la exactitud de la informacion proporcionada por el modelo.
     </p>
 </div>
@@ -25,7 +27,9 @@
         target="_blank"
     >T2-Clasificacion</a></h2>
     <h3>Descripción:</h3>
-    <p>
+    <p style="
+        margin: 0px 10px;
+        justify-content: space-between;">
         Implementación de un modelo de clasificación del modulo <strong>tree</strong> de la libreria <strong>sklearn</strong> para predecir el tipo de medicamento que necesita un paciente en base a informacion sobre su salud, genero, etc., y calcular las metricas correspondientes para conocer la exactitud de la informacion proporcionada por el modelo.
     </p>
 </div>

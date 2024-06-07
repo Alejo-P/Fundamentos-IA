@@ -1,9 +1,9 @@
 # Fundamentos-IA repo
-<h1 align="center">Tareas</h3>
 <p style="font-size:18px;">
     <li>Lenguaje de programación utilizado: <strong>Python</strong></li>
     <li>Librerías utilizadas: <strong>numpy, pandas, matplotlib, sklearn</strong></li>
 </p>
+<h1 align="center">Tareas</h3>
 <div align="center" style="border: 3px solid gray; border-radius: 15px; margin:10px; padding:2px;">
     <h2><a
         style="color: white"

@@ -12,7 +12,7 @@
     >T1-Regresion-Lineal</a></h2>
     <h3>Descripción:</h3>
     <p>
-        Implementación de un modelo de regresión lineal del modulo <strong>linear_model</strong> de la libreria <strong>sklearn</strong> para predecir el precio de una casa en base a su superficie y calcular las metricas correspondientes para conocer la exactitud de la informacion proporcionada por el modelo
+        Implementación de un modelo de regresión lineal del modulo <strong>linear_model</strong> de la libreria <strong>sklearn</strong> para predecir el precio de un seguro parauna persona  en base a informacion como la edad, genero, IMC, etc., y calcular las metricas correspondientes para conocer la exactitud de la informacion proporcionada por el modelo
     </p>
 </div>
 
